@@ -6,7 +6,7 @@ public class Example {
         int sum=0;
          
         int i=1;
-        while (i=n) {
+        while (i==n) {
             sum += i;
             i++;
         }
